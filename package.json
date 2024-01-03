@@ -1,10 +1,14 @@
 {
-  "name": "qiniu-upload-cli",
+  "name": "wd-qiniu-upload-cli",
   "version": "1.0.1",
   "description": "qiniu upload command line tools",
   "type": "module",
   "bin": {
     "upload": "bin/upload.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangding/qiniu-upload-cli.git"
   },
   "keywords": [
     "qiniu",
